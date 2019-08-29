@@ -6,8 +6,10 @@ This code generates a hello world text*/
 
 int main(in argc, char **argv)  {
 
-printf("Nick Kutz/n");
-printf("Major: Electrical Engineering")
+printf("Nick Kutz\n");
+printf("Major: Electrical Engineering\n");
+printf("Isaac Hatfield\n");
+printf("Major:Math/Computer Science\n");
 
 return 0;
 }
